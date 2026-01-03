@@ -1,2 +1,3 @@
 # still
-first one
+first one  
+git add .
